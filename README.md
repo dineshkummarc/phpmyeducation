@@ -3,6 +3,8 @@ College Management System | School Management System
 
 # EduSec 2.0.0 #
 Point release 2.0.0: 17/10/2013
+ReleaseEduSec2.1.2
+ReleaseEduSec2.1.3 - 09/08/2024
 
 # Introduction #
 Welcome to  EduSec!
