@@ -2,9 +2,9 @@
 College Management System | School Management System
 
 # EduSec 2.0.0 #
-Point release 2.0.0: 17/10/2013
-ReleaseEduSec2.1.2
-ReleaseEduSec2.1.3 - 09/08/2024
+* Point release 2.0.0: 17/10/2013
+* ReleaseEduSec2.1.2
+* ReleaseEduSec2.1.3 - 09/08/2024
 
 # Introduction #
 Welcome to  EduSec!
@@ -14,7 +14,7 @@ Edusec - College Management Software
 EduSec has a suite of selective modules specifically tailored to the requirements of education industry. EduSec is engineered and designed considering range of management functions within university. With the use of EduSec, staff can be more accountable as it helps to know the performance of each department in just few seconds. Almost all departments within education industry (e. g. admission, administration, time table, examination, HR, finance etc) can be synchronized and accessed. EduSec helps to assign the responsibilities to employee staff and can reduce time wastage and can speed up the administrative functions. Core functions like admissions, library management, transport management, students attendance in short entire range of university functions can be well performed by EduSec.
 
 # Documentation and Support #
-* www.rudrasoftech.com/forum
+
 
 # System Requirements #
 * A web server that can execute PHP
