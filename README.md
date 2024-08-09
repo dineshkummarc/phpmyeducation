@@ -1,4 +1,5 @@
-# EduSec
+# PHPMYEDUCATION
+powered by EduSec
 College Management System | School Management System
 
 # EduSec 2.0.0 #
