@@ -1,6 +1,5 @@
 # PHPMYEDUCATION
-powered by EduSec
-College Management System | School Management System | Play School Management System |
+powered by EduSec | College Management System | School Management System | Play School Management System |
 
 # EduSec 2.0.0 #
 * Point release 2.0.0: 17/10/2013
